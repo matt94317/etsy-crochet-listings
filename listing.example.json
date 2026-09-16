@@ -1,0 +1,11 @@
+{
+  "_comment": "Digital defaults (type=download, quantity 999, who_made=i_did, when_made=made_to_order, is_supply=true, should_auto_renew=true) are applied automatically — override any of them here. CONFIRM taxonomy_id with `python3 etsy_draft_listing.py taxonomy pattern` before the first real run; the value below is a placeholder.",
+  "title": "Timeless Square Crochet Blanket Pattern - PDF Digital Download",
+  "description": "An instant-download PDF crochet pattern for the Timeless Square blanket.\n\nWHAT YOU GET\n- 12-page PDF with written instructions and stitch photos\n- US crochet terms\n- Yarn weight, hook size and gauge notes\n\nThis is a digital pattern, not a finished blanket. No physical item ships.",
+  "price": 5.99,
+  "taxonomy_id": 566,
+  "tags": ["crochet pattern", "blanket pattern", "pdf pattern", "digital download", "granny square", "afghan pattern", "instant download", "crochet blanket", "beginner crochet"],
+  "materials": ["pdf", "digital file"],
+  "images": ["cover.jpg"],
+  "files": ["TimelessSquareCrochetBlanket.pdf"]
+}
